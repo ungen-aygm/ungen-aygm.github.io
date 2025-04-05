@@ -35,6 +35,16 @@
 	jekyll new ungen-aygm.github.com
 ```
 
+### Markdown To HTML
+```
+	cd ./markdown/
+	sh install.sh
+	echo "# Hello
+	">./content/index.md
+	sh run ./content/index.md index.html
+	sh mv ../
+```
+
 --- 
 
 ## GitHub Educationに申し込み手順
