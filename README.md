@@ -27,6 +27,14 @@
 2. リポジトリ（リポート）：[username].github.comを作成する
 3. ローカルにコンテンツ生成、リポジトリにデプロイ。
 
+### Jekyllを使う。
+```
+	brew install rbenv
+	rbenv install <ruby version>
+	gem install bundler jekyll
+	jekyll new ungen-aygm.github.com
+```
+
 --- 
 
 ## GitHub Educationに申し込み手順

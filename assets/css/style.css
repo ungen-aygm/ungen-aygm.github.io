@@ -1,0 +1,12 @@
+/* ungen-aygm.github.io styles. */
+body{
+	background-color: #010409;
+	margin:0;
+	padding:0;
+	color:#c9d1d9;
+}
+main {
+	max-width: 100%;
+	margin: 0 auto;
+	padding:64px;
+}
